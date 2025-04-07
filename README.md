@@ -10,3 +10,4 @@ Using this model, BigMart will try to understand the properties of products and 
 The model performance will be evaluated on the basis of the prediction of the sales for the test data (test.csv), which contains similar
 data-points as train except for the sales to be predicted. At the end, have the actual sales for the test dataset, against which the predictions
 will be evaluated. Root Mean Square Error value is used to judge the response.
+![RMSE](https://github.com/user-attachments/assets/5260ffa9-c738-41e7-993b-05f8d2b7897b)
